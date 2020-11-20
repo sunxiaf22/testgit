@@ -2,9 +2,5 @@
 
 --changes on bugfix1--(modified for bugfix3) --- (bug fix 04 by user0) --- (fix bug by team1) -- (fix bug 0010 by user 0) -- (fix bug 0011 by user 0)
 -- (fix bug 0013 by user 0)-- (fix bug 0014 by user 0)-- (fix bug 0015 by user 0)
-<<<<<<< HEAD
--- (fix bug 0022 by user 1)-- (fix bug 0023 by user 1) -------1111, 222222
-=======
--- (fix bug 0022 by user 1)-- (fix bug 0023 by user 1)-- (fix bug 0022 by user 2)-- (fix bug 0022 by user 2)-- (fix bug 0022 by user 2)-- (fix bug 0023 by user 2)-- (fix bug 0024 by user 2)
->>>>>>> 3cdceedc0e2b7477bcfc73241cfd1cc7c7411ae0
+-- (fix bug 0022 by user 1)-- (fix bug 0023 by user 1)-------1111, 222222 -- (fix bug 0022 by user 2)-- (fix bug 0022 by user 2)-- (fix bug 0022 by user 2)-- (fix bug 0023 by user 2)-- (fix bug 0024 by user 2)
 ---for sr1(modified for sr2)(mdofiied for sr3) -- (modified for bugfix4)
